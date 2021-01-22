@@ -9,7 +9,7 @@
 - Incremental: 21.1.21
 - Tags: release-keys
 - CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
-A/B Device: false
+- A/B Device: false
 - Locale: zh-CN
 - Screen Density: 440
 - Fingerprint: Redmi/lime/lime:11/RKQ1.201004.002/21.1.21:user/release-keys
